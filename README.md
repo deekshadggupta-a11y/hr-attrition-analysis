@@ -402,7 +402,7 @@ Open `powerbi/HR_attrition_analysis_Dashboard.pbix` in Power BI Desktop
 
 ## 📸 Dashboard Preview
 
-![HR Attrition Dashboard](screenshots/Dashboard.png)
+![HR Attrition Dashboard](Dashboard.png)
 
 ---
 
